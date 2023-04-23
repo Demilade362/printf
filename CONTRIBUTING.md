@@ -1,7 +1,7 @@
 ### These are the names of the Contributors to this github repository
 
-* **Oluwademilade Abatan** [OLuwademilade's github](https://github.com/Demilade362)
-
+* **Oluwademilade Abatan** [Oluwademilade's github](https://github.com/Demilade362)
+* **Zahira Khattou** [Zahira Khattou's github](https://github.com/Sapphyruss)
 # To Contribute on This Project
 1. Fork the Repository.
 2. Clone it.
